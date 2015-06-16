@@ -26,7 +26,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -48,3 +49,4 @@ Library/metadata/*
 Library/metadata
 Library/metadata/*
 Library/metadata/00/00000000000000002000000000000000
+Temp/UnityLockfile
