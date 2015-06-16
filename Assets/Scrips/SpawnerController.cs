@@ -14,7 +14,7 @@ public class SpawnerController : MonoBehaviour {
 	
     void Spawn()
     {
-        GameObject objectToSpawn = objects[Random.Range(0, objects.Count-1)];
+        GameObject objectToSpawn = objects[Random.Range(0, objects.Count)];
         Instantiate(objectToSpawn, gameObject.transform.position, Quaternion.identity);
         Invoke("Spawn", (float)(Random.Range((int)(minTime*100), (int)(maxTime*100))/100) );
     }
