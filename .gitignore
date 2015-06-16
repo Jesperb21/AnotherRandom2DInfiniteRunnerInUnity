@@ -41,3 +41,10 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+#metadata
+Library/metadata/*
+Library/metadata
+Library/metadata/*
+Library/metadata/00/00000000000000002000000000000000
