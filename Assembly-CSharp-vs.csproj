@@ -52,6 +52,7 @@
      <Compile Include="Assets\Scrips\ScoreController.cs" />
      <Compile Include="Assets\Scrips\SpawnerController.cs" />
      <Compile Include="Assets\Scrips\deathToBlocks.cs" />
+     <Compile Include="Assets\Scrips\destroymeeee.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>F:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
